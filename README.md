@@ -10,4 +10,10 @@ html : estruturação princial com os conteudos e sensaçẽ slyle, css: estilo 
 index
 html 
 pagina principal dos conteudos e soluções style.css:estilo visualcom cores,fontes e layout
-# 
+# cabeçalho(header)
+-titulo:conservação do solo -barra de notificação 
+# rodapé 
+email
+direitos
+# licença
+este projeto está licenciando sob a mt license,permitindo uso, modificação e destribuição livre com os devidos creditos.
