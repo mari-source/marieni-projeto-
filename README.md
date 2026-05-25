@@ -1,4 +1,5 @@
-# conservação do solo 
+
+,# conservação do solo 
 projeto desenvolvimento do agrinho em 2026
 # tema:
 conservação do solo 
@@ -15,4 +16,5 @@ pagina principal dos conteudos e soluções style.css:estilo visualcom cores,fon
 # rodapé 
 email
 direitos
-# licença este projeto está licenciando sob a mt license,permitindo uso, modificação e destribuição livre com os devidos creditos.
+# licença
+este projeto está licenciando sob a mt license,permitindo uso, modificação e destribuição livre com os devidos creditos.
